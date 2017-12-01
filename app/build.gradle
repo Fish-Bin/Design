@@ -28,4 +28,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     //有弹出效果的FloatingActionButton
     compile 'com.getbase:floatingactionbutton:1.10.1'
+    compile 'com.zhy:autolayout:1.4.5'
 }

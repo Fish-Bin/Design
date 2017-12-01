@@ -22,7 +22,7 @@ public class MaterialActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_material);
-        Log.i("tag","add log");
+        Log.i("tag","add lo");
     }
 
 }

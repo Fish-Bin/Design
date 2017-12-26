@@ -22,6 +22,7 @@
         <activity android:name=".text_input_layout.TextInputLayoutActivity" />
         <activity android:name=".floating_action_button.FloatingActionButtonActivity" />
         <activity android:name=".material.MaterialActivity" />
+        <activity android:name=".test.TestActivity" />
     </application>
 
 </manifest>
